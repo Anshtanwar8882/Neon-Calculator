@@ -14,7 +14,7 @@ It combines functionality and style — making everyday calculations glow with e
 ---
 
 ##  Preview
-![App Screenshot](calculator.png)  
+![App Screenshot](Calculator.png)  
 
 
 ---
